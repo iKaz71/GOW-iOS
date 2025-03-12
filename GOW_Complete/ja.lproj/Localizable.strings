@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  GOW_Complete
+
+  Created by Lex Santos on 08/03/25.
+  
+*/
+
+
+"menu.option.header" = "メニュー";
+"menu.option.videogames" = "ビデオゲーム";
+"menu.option.weapons" = "武器";
+"menu.option.characters" = "キャラクター";
+"menu.option.merchandise" = "グッズ";
+
+"menu.option.weapons.cgo.1.name" = "マーク1ランサーアサルトライフル";
+"menu.option.weapons.cgo.1.description" = "ランベント・パンデミックの際にレトロランサーと呼ばれた、マーク2ランサーアサルトライフルの前身。かつては統制連合政府軍の主力アサルトライフルであり、ペンデュラム戦争全体で使用された。";
+
+"menu.option.weapons.cgo.2.name" = "マーク2ランサーアサルトライフル";
+"menu.option.weapons.cgo.2.description" = "マーク1ランサーアサルトライフルの改良型。チェーンソーバヨネットが搭載され、命中精度が向上し、反動が低減、弾薬の携行量が増加したが、前身よりも火力が低下した。";
+
+"menu.option.weapons.cgo.3.name" = "ロングショットスナイパーライフル";
+"menu.option.weapons.cgo.3.description" = "高威力の単発ボルトアクションスナイパーライフル。ペンデュラム戦争中に統制連合政府によって開発され、エマージェンス・デーの17年後でも使用されていた。";
+
+"menu.option.weapons.cgo.4.name" = "ハンマー・オブ・ドーン";
+"menu.option.weapons.cgo.4.description" = "COGのイムルシオンエネルギーを用いた、軌道衛星レーザー兵器。主要コンポーネントはUIRの科学者マウリス・イヴォによって発明され、作戦「レベラー」の際に奪取された後、アダム・フェニックス教授によって完成された。";
+
+"menu.option.weapons.cgo.5.name" = "MX8スナブピストル";
+"menu.option.weapons.cgo.5.description" = "統制連合政府の武装部隊の標準サイドアーム。";
+
+"menu.option.weapons.locus.1.name" = "ブームショットグレネードランチャー";
+"menu.option.weapons.locus.1.description" = "単発のポンプアクショングレネードランチャーで、主にローカスト、特にブーマーによって使用された。";
+
+"menu.option.weapons.locus.2.name" = "ハンマーバーストII";
+"menu.option.weapons.locus.2.description" = "ローカストの標準装備の高威力アサルトライフル。COGのランサーアサルトライフルのローカスト版ともいえる。";
+
+"menu.option.weapons.locus.3.name" = "マルチャー";
+"menu.option.weapons.locus.3.description" = "COGによって開発された、重火器の手回し式ガトリングガン。";
+
+"menu.option.weapons.locus.4.name" = "ボログレネード";
+"menu.option.weapons.locus.4.description" = "ボログレネード（フラグメンテーショングレネード）は、統制連合政府、ローカスト・ホード、そしてスワームによって使用された標準的な破片手榴弾。";
+
+"menu.option.weapons.locus.5.name" = "ボルトクピストル";
+"menu.option.weapons.locus.5.description" = "ローカスト、特にドローンの標準装備のサイドアーム。ローカストの武器設計哲学に従い、圧倒的な火力を重視した設計となっている。";

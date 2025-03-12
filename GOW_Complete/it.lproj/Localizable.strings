@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  GOW_Complete
+
+  Created by Lex Santos on 08/03/25.
+  
+*/
+/*
+  Localizable.strings
+  GOW
+*/
+
+/* MENU*/
+"menu.option.header" = "Menu";
+"menu.option.videogames" = "Videogiochi";
+"menu.option.weapons" = "Armi";
+"menu.option.characters" = "Personaggi";
+"menu.option.merchandise" = "Merchandising";
+
+"menu.option.weapons.cgo.1.name" = "Fucile d'Assalto Lancer Mark 1";
+"menu.option.weapons.cgo.1.description" = "Chiamato Retro Lancer durante la Pandemia Lambent, era il predecessore del Fucile d'Assalto Lancer Mark 2. In passato, era il fucile d'assalto principale delle forze armate della Coalizione dei Governi Ordinati ed è stato utilizzato durante tutta la Guerra del Pendolo.";
+
+"menu.option.weapons.cgo.2.name" = "Fucile d'Assalto Lancer Mark 2";
+"menu.option.weapons.cgo.2.description" = "Una versione migliorata del Fucile d'Assalto Lancer Mark 1, dotata di baionetta a motosega, maggiore precisione, minore rinculo e capacità di munizioni aumentata, sebbene con una potenza di fuoco ridotta rispetto al suo predecessore.";
+
+"menu.option.weapons.cgo.3.name" = "Fucile da Cecchino Longshot";
+"menu.option.weapons.cgo.3.description" = "Un fucile da cecchino bolt-action ad alta potenza e a colpo singolo. Creato dalla Coalizione dei Governi Ordinati durante la Guerra del Pendolo, il Longshot è stato utilizzato persino diciassette anni dopo il Giorno dell'Emersione.";
+
+"menu.option.weapons.cgo.4.name" = "Martello dell'Alba";
+"menu.option.weapons.cgo.4.description" = "Il Martello dell'Alba era un'arma satellitare orbitale a energia Imulsion della COG. I suoi componenti principali furono inventati dallo scienziato dell'UIR Mauris Ivo e completati dal professor Adam Fenix dopo essere stati rubati durante l'Operazione: Leveler.";
+
+"menu.option.weapons.cgo.5.name" = "Pistola MX8 Snub";
+"menu.option.weapons.cgo.5.description" = "Era l'arma secondaria standard per il personale delle forze armate della Coalizione dei Governi Ordinati.";
+
+"menu.option.weapons.locus.1.name" = "Lanciagranate Boomshot";
+"menu.option.weapons.locus.1.description" = "Un lanciagranate a colpo singolo con meccanismo a pompa, progettato e utilizzato principalmente dai Locust, in particolare dai Boomer.";
+
+"menu.option.weapons.locus.2.name" = "Hammerburst II";
+"menu.option.weapons.locus.2.description" = "Il fucile d'assalto standard ad alta potenza dei Locust. È spesso considerato l'equivalente Locust del Fucile d'Assalto Lancer della COG.";
+
+"menu.option.weapons.locus.3.name" = "Mulcher";
+"menu.option.weapons.locus.3.description" = "Il Mulcher è una mitragliatrice rotante pesante a manovella, sviluppata dalla Coalizione dei Governi Ordinati.";
+
+"menu.option.weapons.locus.4.name" = "Granata Bolo";
+"menu.option.weapons.locus.4.description" = "La Granata Bolo, nota anche come Granata a Frammentazione, era la granata standard utilizzata dalla Coalizione dei Governi Ordinati, dall'Orda dei Locust e dallo Sciame.";
+
+"menu.option.weapons.locus.5.name" = "Pistola Boltok";
+"menu.option.weapons.locus.5.description" = "Era l'arma secondaria standard dei Locust, in particolare dei Droni. La pistola segue la filosofia di progettazione delle armi Locust, enfatizzando una potenza di fuoco brutale.";

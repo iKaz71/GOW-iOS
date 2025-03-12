@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  GOW_Complete
+
+  Created by Lex Santos on 08/03/25.
+  
+*/
+
+
+"menu.option.header" = "Menu";
+"menu.option.videogames" = "Videogame";
+"menu.option.weapons" = "Weapons";
+"menu.option.characters" = "Characters";
+"menu.option.merchandise" = "Merchandise";
+
+"menu.option.weapons.cgo.1.name" = "Mark 1 Lancer Assault Rifle";
+"menu.option.weapons.cgo.1.description" = "Dubbed the Retro Lancer during the Lambent Pandemic, was the predecessor to the Mark 2 Lancer Assault Rifle. Formerly the main assault rifle of the Coalition of Ordered Governments Army, the Mark 1 Assault Rifle was used throughout the Pendulum War.";
+
+"menu.option.weapons.cgo.2.name" = "Mark 2 Lancer Assault Rifle";
+"menu.option.weapons.cgo.2.description" = "An upgrade to the Mark 1 Lancer Assault Rifle, produced with a chainsaw bayonet, increased accuracy, lower recoil, and larger ammunition carrying capacity but less firepower compared to its predecessor.";
+
+"menu.option.weapons.cgo.3.name" = "Longshot Sniper Rifle";
+"menu.option.weapons.cgo.3.description" = "Was a high-caliber, single-shot, bolt-action sniper rifle. Created by the Coalition of Ordered Governments during the Pendulum Wars, the Longshot was used even seventeen years after Emergence Day.";
+
+"menu.option.weapons.cgo.4.name" = "Hammer of Dawn";
+"menu.option.weapons.cgo.4.description" = "The Hammer of Dawn was a COG Imulsion-energized, orbital, satellite-based laser. Its key components were invented by the UIR scientist Mauris Ivo and completed by professor Adam Fenix after it was stolen during Operation: Leveler.";
+
+"menu.option.weapons.cgo.5.name" = "MX8 Snub Pistol";
+"menu.option.weapons.cgo.5.description" = "Was the standard sidearm for Coalition of Ordered Governments armed forces personnel";
+
+"menu.option.weapons.locus.1.name" = "Boomshot Grenade Launcher";
+"menu.option.weapons.locus.1.description" = "Was a single-shot, pump-action grenade launcher designed and used primarily by Locust, specifically the Boomer.";
+
+"menu.option.weapons.locus.2.name" = "Hammerburst II";
+"menu.option.weapons.locus.2.description" = "was the Locust standard-issue, high-powered assault rifle. It is often referred to as the Locust counterpart to the COG Lancer Assault Rifle.";
+
+"menu.option.weapons.locus.3.name" = "Mulcher";
+"menu.option.weapons.locus.3.description" = "The Mulcher is a heavy, hand-cranked, rotary gatling gun developed by the Coalition of Ordered Governments.";
+
+"menu.option.weapons.locus.4.name" = "Bolo Grenade";
+"menu.option.weapons.locus.4.description" = "The Bolo Grenade, otherwise known as the Fragmentation Grenade, was the standard-issue fragmentation grenade used by the Coalition of Ordered Governments, the Locust Horde and the Swarm.";
+
+"menu.option.weapons.locus.5.name" = "Boltok Pistol";
+"menu.option.weapons.locus.5.description" = "was the standard-issue sidearm of the Locust, specifically the Drones. The pistol continues the Locust weapon-design philosophy of creating weapons with an emphasis towards brute force.";
