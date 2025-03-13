@@ -10,9 +10,22 @@
 		83184E092D7C97DE00C5CC64 /* GOW_Complete.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GOW_Complete.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		835D04F52D8265C700436A05 /* Exceptions for "GOW_Complete" folder in "GOW_Complete" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 83184E082D7C97DE00C5CC64 /* GOW_Complete */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		83184E0B2D7C97DF00C5CC64 /* GOW_Complete */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				835D04F52D8265C700436A05 /* Exceptions for "GOW_Complete" folder in "GOW_Complete" target */,
+			);
 			path = GOW_Complete;
 			sourceTree = "<group>";
 		};
